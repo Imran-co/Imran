@@ -1,0 +1,6 @@
+'Age': [25, 40, 35, 50, 23, 45, 30, 60, 27, 39],
+    'Gender': ['Male', 'Female', 'Male', 'Male', 'Female', 'Male', 'Female', 'Male', 'Female', 'Male'],
+    'Education': ['Diploma', 'Bachelor', 'Master', 'PhD', 'Diploma', 'Master', 'PhD', 'Bachelor', 'Master', 'PhD'],
+    'Industry': ['Manufacturing', 'IT', 'Manufacturing', 'Healthcare', 'Manufacturing', 'IT', 'Healthcare', 'IT', 'Manufacturing', 'IT'],
+    'Residence': ['Metro', 'Non-metro', 'Metro', 'Metro', 'Non-metro', 'Metro', 'Non-metro', 'Metro', 'Metro', 'Non-metro'],
+    'Income Class': ['Below 4L', '4-15L', '4-15L', 'Above 15L', 'Below 4L', '4-15L', 'Above 15L', '4-15L', 'Below 4L', '4-15L']
